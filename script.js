@@ -5,16 +5,16 @@ const subjects = [
 	'A scientist',
 	'The sun',
 	'Our team',
-	'The book',
+	'The book', "The student", "My neighbor", "A pilot", "The tree", "Our family", "The movie",
 ];
-const verbs = ['jumped', 'studied', 'built', 'sang', 'explored', 'discovered'];
+const verbs = ['jumped', 'studied', 'built', 'sang', 'explored', 'discovered', "learned", "helped", "flew", "grew", "celebrated", "inspired",];
 const objects = [
 	'the moon',
 	'a new theory',
 	'an adventure',
 	'a song',
 	'the ocean',
-	'a treasure',
+	'a treasure', "a new language", "a stranger", "the sky", "a garden", "a birthday", "millions of viewers",
 ];
 
 const randomNumber = (maxNum) => {
